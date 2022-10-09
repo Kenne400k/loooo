@@ -36,7 +36,6 @@ class Home:
 			"https://www.proxy-list.download/api/v1/get?type=http&anon=elite",
 			"https://www.proxy-list.download/api/v1/get?type=http&anon=anonymous",
 			"https://raw.githubusercontent.com/Kenne400k/proxy100k/main/proxy100k",
-            "https://raw.githubusercontent.com/mishakorzik/Free-Proxy/main/proxy.txt",
             "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
             "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
             "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
